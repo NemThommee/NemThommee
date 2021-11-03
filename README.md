@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @NemThommee
 - 👀 I’m interested in FP paradigm.
 - 🌱 I’m currently learning funcional languages as Lisp, Scheme, Scala, Clojure, OCaml.
-- 💞️ I’m not looking to any collaborate yet :)  ...
+- 💞️ I’m not looking for any collaborate yet :)  ...
 
 
 <!---
